@@ -1,7 +1,6 @@
 ## Olá! Eu sou o João Vittor Venturini 👋
 
 - 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🤔 Procuro ajuda com desenvolvimento front-end
 
 <div align="center">
   <a href="https://github.com/JoaoVittorVenturini">
