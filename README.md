@@ -1,8 +1,7 @@
 ## Olá! Eu sou o João Vittor Venturini 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas.
+- 🤔 Procuro ajuda com desenvolvimento front-end
 
 <div align="center">
   <a href="https://github.com/JoaoVittorVenturini">
@@ -20,4 +19,3 @@
   <!--discord-->
  <a href="https://discord.gg/BV9hV8ZTEf" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
   </div>
- 
