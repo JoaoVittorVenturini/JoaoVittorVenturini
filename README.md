@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=header"/>
-<h1 align="center">💻 João Vittor Venturini — Backend-Focused Fullstack Developer</h1>
+<h1 align="center">💻 João Vittor Venturini — Fullstack Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-vittor-venturini/" target="_blank">
@@ -22,7 +22,7 @@ I have experience designing **REST APIs**, handling **relational data**, and bui
 I value long-term maintainability over quick fixes and enjoy improving existing codebases through refactoring and better conventions.
 
 **Currently:**
-- 📂 Refactoring older projects to apply better architecture and standards
+- 📂 Refactoring older projects to improve architecture boundaries, strengthen TypeScript typing, and standardize API and validation patterns
 
 ---
 
