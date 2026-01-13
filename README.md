@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=header"/>
-
-<h1 align="center">💻 João Vittor Venturini — Fullstack Developer</h1>
+<h1 align="center">💻 João Vittor Venturini — Backend-Focused Fullstack Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joao-vittor-venturini/" target="_blank">
@@ -15,52 +14,46 @@
 
 ## 🧠 About Me
 
-I'm a backend developer with a degree in Systems Analysis and Development (2023). I enjoy building structured, maintainable, and efficient systems.
+I'm a **fullstack developer** with a degree in **Systems Analysis and Development (2023)**.  
+I build **structured, maintainable, and scalable systems**, prioritizing clean architecture, strong typing, and readability.
 
-I'm constantly exploring tools, practices, and ideas that help create better software — from project architecture to code readability.
+I have experience designing **REST APIs**, handling **relational data**, and building **React interfaces** that integrate well with backend services.
 
-Outside of coding, I'm disciplined, curious, and always learning — whether it's through studies, challenges, or real-world projects.
+I value long-term maintainability over quick fixes and enjoy improving existing codebases through refactoring and better conventions.
 
-Currently:
-- 👨‍🔧 Studying Automotive Maintenance Technician (at Senai)
-- 📚 Taking an advanced English course to improve communication and fluency (at KNN)
-- 📂 Refactoring past projects to apply better structure and conventions
+**Currently:**
+- 📂 Refactoring older projects to apply better architecture and standards
 
 ---
 
 ## 🚀 Technologies
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30px" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="30px" style="margin-right:10px;" />
-</div>
+**Core**
+
+TypeScript · JavaScript · Node.js · React
+
+**Backend**
+
+Fastify · REST APIs · SQL · Prisma
+
+**Frontend**
+
+React · Vite · React Query · Zod
+
+**Tools & Practices**
+
+Git · Clean Architecture · API Design · Validation · Strong Typing
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img align="top" height="180em" alt="GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=JoaoVittorVenturini&show_icons=true&theme=midnight-purple" />
-  <img align="top" height="180em" alt="Top Langs" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVittorVenturini&layout=compact&theme=midnight-purple" />
-</p>
+## 🎯 What I’m Looking For
+- Junior to Mid-level **Backend / Fullstack** opportunities
+- Teams that value **clean code, reviews, and learning**
+- Real products with **business rules and long-term ownership**
 
 ---
 
 ## 📫 Contact
-
 - 📩 Email: [joaovittorventurini@outlook.com](mailto:joaovittorventurini@outlook.com)
-- 📍 Based in Londrina, Paraná, Brazil
-
----
-
-<div align="center">
-  <sub><b>Visitors</b></sub><br>
-  <img src="https://profile-counter.glitch.me/JoaoVittorVenturini/count.svg" />
-</div>
-
+- 📍 Londrina, Paraná — Brazil
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
