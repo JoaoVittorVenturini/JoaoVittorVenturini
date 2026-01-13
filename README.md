@@ -30,7 +30,7 @@ I value long-term maintainability over quick fixes and enjoy improving existing 
 
 **Core**
 
-TypeScript · JavaScript · Node.js · React
+TypeScript · JavaScript · Node.js
 
 **Backend**
 
@@ -39,10 +39,6 @@ Fastify · REST APIs · SQL · Prisma
 **Frontend**
 
 React · Vite · React Query · Zod
-
-**Tools & Practices**
-
-Git · Clean Architecture · API Design · Validation · Strong Typing
 
 ---
 
